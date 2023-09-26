@@ -1,0 +1,18 @@
+h1, h2 {
+    color: red;
+    font-size: 3rem;
+}
+
+.dim{
+    color: rgb(15, 15, 15);
+}
+
+body{
+    background-color:#B996F7;
+    color: dark black;
+}
+.profilephoto{
+    width: 100px;
+    border: 2px double white;
+border-radius: 50%;
+}
